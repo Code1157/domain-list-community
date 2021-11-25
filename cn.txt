@@ -3088,3 +3088,4 @@ domain:zoom3g.com
 domain:zoomyou.cn
 domain:chaoxing.com
 domain:chaoxing.cc
+domain:by56.com
